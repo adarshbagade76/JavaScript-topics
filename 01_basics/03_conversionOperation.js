@@ -30,3 +30,14 @@ console.log("isLoginUser2",isLoginUser1)
 let someNumber=33;
 let someNumber1=String(someNumber);
 console.log("someNumber1", typeof someNumber1);
+
+//***************************************************** */
+let string1="Hello";
+let string2="Adarsh";
+let result=string1 + " " + string2
+console.log(result)
+console.log(1 + "2")
+console.log("1" + 2)
+console.log("2"+ 1)
+console.log(2+ 1+ "2")
+console.log("2"+ 1+ 2)
